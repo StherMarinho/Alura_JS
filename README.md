@@ -1,10 +1,44 @@
 # Curso Alura: JavaScript para Web: Crie páginas dinâmicas
 
-Curso base em JavaScript da trilha de Angular, com intuito de aprender a:
+Projeto desenvolvido durante o curso **JavaScript para Web: Crie páginas dinâmicas**, da **Alura**, curso base da trilha de **Angular**.  
+O objetivo é aplicar conceitos fundamentais de JavaScript para criar interações dinâmicas em páginas web, utilizando **HTML**, **CSS** e **JavaScript puro**.
 
---Identificar os papéis de cada tecnologia da Web para construção de páginas
---Associar o JavaScript com HTML através do DOM
---Implementar funções com JavaScript
---Investigar possibilidades de resolução de problemas de código
---Selecionar operadores lógicos adequados para diferentes situações
---Produzir soluções simples para páginas dinâmicas
+---
+
+## 🎯 Objetivos do Curso
+
+Ao longo do curso, foram trabalhados os seguintes conceitos:
+
+- Identificar os papéis de cada tecnologia da Web (HTML, CSS e JavaScript)
+- Associar JavaScript ao HTML por meio do **DOM**
+- Implementar e reutilizar **funções em JavaScript**
+- Investigar e resolver problemas de código
+- Selecionar operadores lógicos adequados para diferentes situações
+- Produzir soluções simples para páginas dinâmicas e interativas
+
+---
+
+## 🧠 Descrição do Projeto
+
+O projeto consiste em uma página interativa onde cada botão (tecla) representa um instrumento sonoro.  
+Ao clicar com o mouse ou pressionar **Enter** ou **Espaço** no teclado, o som correspondente é reproduzido, além de um efeito visual aplicado à tecla.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Manipulação do DOM
+- Eventos de teclado e mouse
+
+---
+
+## 📌 Principais Funcionalidades
+
+- Reprodução de áudio ao clicar em botões
+- Associação dinâmica entre botões e sons
+- Uso de **template strings**
+- Tratamento de eventos de teclado (`keydown` e `keyup`)
+- Feedback visual ao interagir com os elementos
